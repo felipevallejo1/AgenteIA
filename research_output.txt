@@ -1,0 +1,5 @@
+--- Research Output ---
+Timestamp: 2025-10-17 15:08:40
+
+{"topic": "Bees", "summary": "Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea. They are found globally on every continent except Antarctica, and in every habitat that contains insect-pollinated flowering plants. Bees are important for pollen transportation during the flowering process.", "sources": ["https://en.wikipedia.org/wiki/Bee", "https://www.nature.com/articles/s41586-019-1471-0", "https://www.nationalgeographic.com/animals/article/bees"], "tools_used": ["Wikipedia", "Web Search"]}
+
